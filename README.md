@@ -6,3 +6,4 @@
 ## BAD Code
 - https://github.com/michielmulders/sonarqube-bad-code
 - https://github.com/uweplonus/spotbugs-examples
+- https://github.com/devonfw-forge/bad-code-example
